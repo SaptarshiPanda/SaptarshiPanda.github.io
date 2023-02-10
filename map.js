@@ -115,7 +115,7 @@ const marker_lat_longs = [[25.58935,91.89828], // Golf 0
 
 // Creating marker text content
 const texts = ['<strong>June 6, 2022</strong>&nbsp;|&nbsp;<i>Golf Links</i><br>\
-	I think this is the exact spot we sat in a circle. Sleepy and grumpy me, irritated you - aha, what a first impression. Was about to mention "First movie" but then I realised movies er naam e Bijoiu te <i>Prithviraaj</i> ar Prime Video Watch Party te <i>The Prestige baad diye kissu nei.</i>',
+	I think this is the exact spot we sat in a circle. Sleepy and grumpy me, irritated you - aha, what a first impression. Was about to mention "First movie" but then I realised movies er naam e Bijoiu te <i>Prithviraaj</i> ar Prime Video Watch Party te <i>The Prestige</i> baad diye kissu nei.',
 	'<strong>August 28, 2022</strong>&nbsp;|&nbsp;<i>NIFT Shillong</i><br>\
 	Visiting your campus for the first time. Day started off with an uncertainity but eventually to our great delight, the hangout plan was successful. Waterfall dekhte time slippery stones pe support dene ke naam pe hand holding krr liya hehe. Constantly chatting, staying close by and yeah, the "offering my jacket" ....those were the first glimpses of affection.',
 	'<strong>September 3, 2022</strong>&nbsp;|&nbsp;<i>Lady Hydari Park, Ward\'s Lake</i><br>\
