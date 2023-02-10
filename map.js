@@ -290,7 +290,7 @@ var carIcon = L.icon({
 		});
 var car = L.marker([0,0],{icon : carIcon});
 // Hangout spots overview
-var hang_spots = L.layerGroup([L.popup().setContent('<b>City Centre 2</b><br><img src="Utilities/cc2.gif" height="100px" width="150px"/>').setLatLng([22.6230,88.4502]),
+var hang_spots = L.layerGroup([L.popup().setContent('<b>City Centre 2</b><br><img src="Utilities/cc2.gif" height="150px" width="150px"/>').setLatLng([22.6230,88.4502]),
 	L.popup().setContent('<b>Science City</b><br><img src="Utilities/science city.gif" height="100px" width="150px"/>').setLatLng([22.54079,88.39622])]);
 
 // *****************************************************************************************************************************************
